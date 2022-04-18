@@ -693,4 +693,6 @@ A properly set up network on a Raspbbery Pi device with working connectivity to 
 .. [1]
    Application which is based on Tigase IoT Framework and connects (creates bridge) IoT unaware sensors and allows them to access XMPP network
 
+
+`here <https://etcher.io/>`__  as a zip file.
 .. image:: ../../asciidoc/images/hardware.jpg
